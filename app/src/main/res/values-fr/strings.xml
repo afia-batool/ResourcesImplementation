@@ -1,0 +1,5 @@
+<resources>
+    <string name="text_view_1">J\'aime les pommes</string>
+    <string name="text_view_2">J\'aime les mangues</string>
+    <string name="text_view_3">J\'aime les oranges</string>
+</resources>
